@@ -46,8 +46,8 @@ There are various stakeholders in the [Ethereum community](/community/), each pl
 - **Application Users**: these people interact with applications on the Ethereum blockchain.
 - **Application/Tooling Developers**: these people write applications that run on the Ethereum blockchain (e.g. DeFi, NFTs, etc.) or build tooling to interact with Ethereum (e.g. wallets, test suites, etc.). [More on dapps](/dapps/).
 - **Node Operators**: these people run nodes that propagate blocks and transactions, rejecting any invalid transaction or block that they come across. [More on nodes](/developers/docs/nodes-and-clients/).
-- **EIP Authors**: these people propose changes to the Ethereum protocol, in the form of Ethereum Improvement Proposals (EIPs). [More on EIPs](/eips/).
 - **Validators**: these people run nodes that can add new blocks to the Ethereum blockchain.
+- **EIP Authors**: these people propose changes to the Ethereum protocol, in the form of Ethereum Improvement Proposals (EIPs). [More on EIPs](/eips/).
 - **Protocol Developers** (a.k.a. "Core Developers" ): these people maintain the various Ethereum implementations (e.g. Geth, Nethermind, Besu, Erigon, Reth at the execution layer or Prysm, Lighthouse, Nimbus, Teku, Lodestar, Grandine at the consensus layer). [More on Ethereum clients](/developers/docs/nodes-and-clients/).
 
 _Note: any individual can be part of multiple of these groups (e.g. a protocol developer could champion an EIP, and run a beacon chain validator, and use DeFi applications). For conceptual clarity, it is easiest to distinguish between them._
